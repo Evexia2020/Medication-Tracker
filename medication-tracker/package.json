@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Syndicate555.github.io/Medication-Tracker",
   "name": "medication-tracker",
   "version": "0.1.0",
   "private": true,
@@ -31,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
