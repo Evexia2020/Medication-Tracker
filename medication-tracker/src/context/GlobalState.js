@@ -3,6 +3,7 @@ import AppReducer from "./AppReducer";
 
 // Initial state
 const initialState = {
+  //Insert Daily medications here
   transactions: [
     { id: 1, text: "Multi-vitamin", amount: 1 },
     { id: 2, text: "Tylenol", amount: 2 },
