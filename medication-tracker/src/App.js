@@ -1,4 +1,6 @@
 import React from "react";
+
+// Custom components
 import { Header } from "./components/Header";
 import { Balance } from "./components/Balance";
 import { Medications } from "./components/Medications";
